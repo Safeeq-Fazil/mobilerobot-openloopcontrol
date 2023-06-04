@@ -86,33 +86,24 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![robot](https://github.com/Safeeq-Fazil/mobilerobot-openloopcontrol/assets/118680361/bc3cb392-30f6-4f7b-86bf-39f6cd229c0e)
 
-Insert image here
+## Movement images:
 
+![robo 1](https://github.com/Safeeq-Fazil/mobilerobot-openloopcontrol/assets/118680361/f641c825-cf98-45da-9b0e-6ae8d5cbf74f)
+![robo 2](https://github.com/Safeeq-Fazil/mobilerobot-openloopcontrol/assets/118680361/95c731d0-0109-495d-9bc7-b709201e1cd1)
+![robo 3](https://github.com/Safeeq-Fazil/mobilerobot-openloopcontrol/assets/118680361/8c9fc4dd-1fb0-4ee1-84e6-14372d983148)
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-<br/>
-<br/>
-<br/>
-<br/>
+https://youtube.com/shorts/RQaaCqOnsjU?feature=share
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
